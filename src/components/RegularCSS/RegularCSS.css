@@ -1,0 +1,21 @@
+
+.title {
+    color: gray;
+    margin: 20px;
+    font-family: georgia;
+    font-size: 40px;
+}
+
+.text {
+    color: black;
+    font-size: 14px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.photo {
+    width: 60%;
+    margin: 30px auto;
+    display: block;
+    border: 3px solid pink;
+}
