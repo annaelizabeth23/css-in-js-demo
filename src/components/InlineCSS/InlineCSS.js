@@ -3,6 +3,9 @@ import cat from '../../img/cat.jpeg';
 import puppy from '../../img/puppy.jpeg';
 import bunny from '../../img/bunny.jpeg';
 
+// Created for sake of comparison to CSS in JS. Inline CSS using a JavaScript object to contain styles.
+
+
 const h2Style = {
     color: 'black',
     margin: '20px',

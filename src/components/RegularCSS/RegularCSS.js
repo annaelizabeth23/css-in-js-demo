@@ -4,6 +4,8 @@ import puppy from '../../img/puppy.jpeg';
 import bunny from '../../img/bunny.jpeg';
 import './RegularCSS.css';
 
+// Created for sake of comparison to CSS in JS. Basic CSS using an external stylesheet.
+
 class RegularCSS extends Component {
   render() {
     return (
